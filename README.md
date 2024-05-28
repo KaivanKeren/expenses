@@ -1,4 +1,4 @@
-# Bun & Hono JS
+# Next JS & Hono JS
 
 To install dependencies:
 
